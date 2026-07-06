@@ -13,7 +13,7 @@ A modern full-stack hotel management application built with **Next.js**. The Wil
 - Fast Server-Side Rendering with Next.js
 - Modern & Clean UI
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Next.js
 - React.js
@@ -22,7 +22,7 @@ A modern full-stack hotel management application built with **Next.js**. The Wil
 - Tailwind CSS
 - NextAuth (Authentication)
 
-💻 Installation
+## Installation
 
 Install dependencies:
 
@@ -42,7 +42,7 @@ Open your browser and visit:
 http://localhost:3000
 ```
 
-## 📖 What I Learned
+## What I Learned
 
 - Building full-stack applications with Next.js
 - Server Components & Client Components
